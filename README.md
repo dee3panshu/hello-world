@@ -1,2 +1,3 @@
 # hello-world
 hello this is my demo repository.i am learning GSOC now...
+i hav elearned making repository, branch and editing or making commits..:)
